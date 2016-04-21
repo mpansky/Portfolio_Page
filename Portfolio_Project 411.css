@@ -1,0 +1,54 @@
+* {
+margin:0;
+padding:0;
+}
+
+#Wrapper {
+width:1500px;
+margin: 20px auto;
+background-image:url(http://image.wallpapersarchive.net/full/14444714071439156242.jpeg);
+background-size:contain;
+background-repeat: no-repeat;
+}
+
+#Header {
+height:40px;
+background-color: white;
+opacity:.2;
+}
+
+#Navigation {
+height:20px;
+}
+
+#Content {
+height:700px;
+float:left;
+text-align: left;
+color: white;
+font-size:150%;
+width:65%;
+}
+
+#Sidebar {
+height:700px;
+float:right;
+width: 35%;
+margin-top:120px;
+}
+
+#Social {
+clear:both;
+height:60px;
+margin: 20px auto;
+vertical-align: middle;
+text-align: center;
+padding-bottom:10px;
+}
+
+#Footer {
+clear:both;
+height:100px;
+text-align: center;
+vertical-align: bottom;
+}
